@@ -74,6 +74,7 @@
 
 ### 研究论文 📓
 
+* [神经网络各类模型论文汇总](http://www.asimovinstitute.org/neural-network-zoo/)
 * [Artificial Intelligence(人工智能)](https://arxiv.org/list/cs.AI/recent)
 * [Computer Vision and Pattern Recognition(计算机视觉和模式识别)](https://arxiv.org/list/cs.CV/recent)
 * [awesome-deep-learning-papers:The most cited deep learning papers](https://github.com/terryum/awesome-deep-learning-papers)

@@ -6,6 +6,9 @@
 
 # Deep Learning【精选更新】
 
+- 🔥 New：【近期热点】[DeepNude的算法以及通用的Image-to-Image理论与实践研究](https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology)
+- 🔥 New：[一文读懂GAN前世今生：Generative Adversarial Networks - The Story So Far](https://blog.floydhub.com/gans-story-so-far/)
+- 🔥 New：[如何规划和启动你的ML/DL项目](https://blog.floydhub.com/structuring-and-planning-your-machine-learning-project/)
 - 🔥 New：本期新增神经网络与深度学习、ArXiv论文及代码、深度学习速查表及笔试面试精选等内容
 
 ## 一 Python篇
@@ -21,6 +24,8 @@
 * [国外著名python在线编程学习网站](https://www.codecademy.com/)
 * [国内Python在线学习网站](http://www.runoob.com/python/python-tutorial.html)
 * [以撸代码的形式学习Python](https://github.com/xianhu/LearnPython)
+* 🔥 New:[Move: A Language With Programmable
+Resources](https://developers.libra.org/docs/assets/papers/libra-move-a-language-with-programmable-resources.pdf)
 
  ### 实例练习
 
@@ -28,6 +33,7 @@
 * [新浪微博爬虫分享（一天可抓取 1300 万条数据）](http://blog.csdn.net/bone_ace/article/details/50903178)
 * [如何用100行Python代码做出魔性声控游戏“八分音符酱”](https://zhuanlan.zhihu.com/p/25499306)
 * [50行代码爬网页图片一例](https://zhuanlan.zhihu.com/p/28680797)
+* 🔥 New:[Libra -- My First Transaction](https://developers.libra.org/docs/my-first-transaction)
 
 ### 爬虫框架
 
@@ -83,6 +89,13 @@
 * [Efficient and Robust Automated Machine Learning](http://papers.nips.cc/paper/5872-efficient-and-robust-automated-machine-learning.pdf)
 * [Microsoft COCO: Common Objects in Context](https://arxiv.org/pdf/1405.0312.pdf)
 * [Speed/accuracy trade-offs for modern convolutional object detectors](https://arxiv.org/pdf/1611.10012.pdf)
+#### GAN
+* [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/pdf/1611.07004.pdf)
+* [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs](https://arxiv.org/pdf/1711.11585.pdf)
+* [Unpaired Image-to-Image Translation
+using Cycle-Consistent Adversarial Networks](https://arxiv.org/pdf/1703.10593.pdf)
+* [A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/pdf/1812.04948.pdf)
+* [Generating Cats with StyleGAN on AWS SageMaker](https://devopstar.com/2019/02/25/generating-cats-with-stylegan-on-aws-sagemaker/)
 
 
 ### TensorFlow
@@ -142,7 +155,6 @@
 * [Android物体识别APP：Fast-RCNN and Scene Recognition using Caffe](https://github.com/tzutalin/Android-Object-Detection)
 * [Google物体识别API：Object_Detection_Tensorflow_API](https://github.com/priya-dwivedi/Deep-Learning/blob/master/Object_Detection_Tensorflow_API.ipynb)
 * [对于谷歌开源的TensorFlow Object Detection API视频物体识别系统实现教程](http://blog.csdn.net/xiaoxiao123jun/article/details/76605928)
-
 * [Facebook AI 负责人：深度学习技术趋势报告（2016）](https://mp.weixin.qq.com/s/fgVcpZvzr0WE8eP0gSRQdw) *一文总结历史沿革*
 
 ### 笔面精选
@@ -174,6 +186,9 @@
 * [人工智能：新技术的“双刃剑”](http://www.edu.cn/xxh/ji_shu_ju_le_bu/rgzn/201804/t20180402_1593248.shtml)
 * [Five Ways Machine Learning Can Save Your Company From A Security Breach Meltdown](https://www.forbes.com/sites/louiscolumbus/2018/03/26/five-ways-machine-learning-can-save-your-company-from-a-security-breach-meltdown/#610afd7d2585)
 * [全球100家代表性AI公司](https://www.jiqizhixin.com/articles/2018-01-10-5)
+**相关
+* [Facebook Unveils Cryptocurrency Libra as an Alternative to Bitcoin](https://www.wsj.com/articles/facebook-unveils-crypto-wallet-based-on-currency-libra-11560850141)
+* [Libra:A simple global currency and financial infrastructure that empowers billions of people](https://libra.org/en-US/)
 
 ## 附：TOP深度学习项目 🔥
 
